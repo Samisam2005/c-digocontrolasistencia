@@ -1,0 +1,28 @@
+C:\Users\Usuario\Desktop\Sistema Control Uni EG\ControlAsistencia\ControlAsistencia\bin\Debug\net8.0\ControlAsistencia.exe
+C:\Users\Usuario\Desktop\Sistema Control Uni EG\ControlAsistencia\ControlAsistencia\bin\Debug\net8.0\ControlAsistencia.deps.json
+C:\Users\Usuario\Desktop\Sistema Control Uni EG\ControlAsistencia\ControlAsistencia\bin\Debug\net8.0\ControlAsistencia.runtimeconfig.json
+C:\Users\Usuario\Desktop\Sistema Control Uni EG\ControlAsistencia\ControlAsistencia\bin\Debug\net8.0\ControlAsistencia.dll
+C:\Users\Usuario\Desktop\Sistema Control Uni EG\ControlAsistencia\ControlAsistencia\bin\Debug\net8.0\ControlAsistencia.pdb
+C:\Users\Usuario\Desktop\Sistema Control Uni EG\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ControlAsistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Sistema Control Uni EG\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ControlAsistencia.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Sistema Control Uni EG\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ControlAsistencia.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Sistema Control Uni EG\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ControlAsistencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Sistema Control Uni EG\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ControlAsistencia.dll
+C:\Users\Usuario\Desktop\Sistema Control Uni EG\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\refint\ControlAsistencia.dll
+C:\Users\Usuario\Desktop\Sistema Control Uni EG\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ControlAsistencia.pdb
+C:\Users\Usuario\Desktop\Sistema Control Uni EG\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ControlAsistencia.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Sistema Control Uni EG\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ref\ControlAsistencia.dll
+C:\Users\Angelo\Desktop\sam\Sistema de Asistencias\Sistema de Asistencias\ControlAsistencia\ControlAsistencia\bin\Debug\net8.0\ControlAsistencia.exe
+C:\Users\Angelo\Desktop\sam\Sistema de Asistencias\Sistema de Asistencias\ControlAsistencia\ControlAsistencia\bin\Debug\net8.0\ControlAsistencia.deps.json
+C:\Users\Angelo\Desktop\sam\Sistema de Asistencias\Sistema de Asistencias\ControlAsistencia\ControlAsistencia\bin\Debug\net8.0\ControlAsistencia.runtimeconfig.json
+C:\Users\Angelo\Desktop\sam\Sistema de Asistencias\Sistema de Asistencias\ControlAsistencia\ControlAsistencia\bin\Debug\net8.0\ControlAsistencia.dll
+C:\Users\Angelo\Desktop\sam\Sistema de Asistencias\Sistema de Asistencias\ControlAsistencia\ControlAsistencia\bin\Debug\net8.0\ControlAsistencia.pdb
+C:\Users\Angelo\Desktop\sam\Sistema de Asistencias\Sistema de Asistencias\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ControlAsistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo\Desktop\sam\Sistema de Asistencias\Sistema de Asistencias\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ControlAsistencia.AssemblyInfoInputs.cache
+C:\Users\Angelo\Desktop\sam\Sistema de Asistencias\Sistema de Asistencias\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ControlAsistencia.AssemblyInfo.cs
+C:\Users\Angelo\Desktop\sam\Sistema de Asistencias\Sistema de Asistencias\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ControlAsistencia.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\sam\Sistema de Asistencias\Sistema de Asistencias\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ControlAsistencia.dll
+C:\Users\Angelo\Desktop\sam\Sistema de Asistencias\Sistema de Asistencias\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\refint\ControlAsistencia.dll
+C:\Users\Angelo\Desktop\sam\Sistema de Asistencias\Sistema de Asistencias\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ControlAsistencia.pdb
+C:\Users\Angelo\Desktop\sam\Sistema de Asistencias\Sistema de Asistencias\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ControlAsistencia.genruntimeconfig.cache
+C:\Users\Angelo\Desktop\sam\Sistema de Asistencias\Sistema de Asistencias\ControlAsistencia\ControlAsistencia\obj\Debug\net8.0\ref\ControlAsistencia.dll
